@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+::selection {background: #1BBC9B;color:#fff;}
+::-moz-selection {background: #1BBC9B;color:#fff;}
+#jpreBar,.patern span,.red,.nav-button span,.inner-overlay,.skillbar-bar,.serviseslider h3 span,.icon-holder,.subscriptionForm input#submitButton,#loadingProgress,.sepcolor,.quote-icon,.skillbar-bar,#facts ul li h6,#closeProject a,#ajaxpage a.lanch-project,#clientlist,#contact_form textarea:focus,#contact_form input:focus, .owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls .clickable .owl-page:hover span,.slides-pagination a.current,.slides-pagination a:hover,.submit_btn:hover,.resume-head,.resume-line,.resume-date,.download-resume , .pagination a.current-page, .pagination a:hover , .project-details a{background:#1BBC9B;}
+#team .content , #options li.back, #subscribe .content, #prices .content, .simple-page{border-top:2px solid #1BBC9B;}
+#options li.back, #subscribe .content, #prices .content{border-top:2px solid #1BBC9B;}
+#facts ul li h6:before {border-bottom-color: #1BBC9B;}
+#testimonials .content{border-top:2px solid #1BBC9B;border-bottom:2px solid #1BBC9B;}
+.actser:after {border-top-color: #1BBC9B;}
+.inner a:hover , .inner li.current a{color:#1BBC9B;border-right:2px solid #1BBC9B;}
+.customNavigation a.next-slide{background:#1BBC9B url(../images/pl-small.png) no-repeat center;}
+.customNavigation a.close{background:#1BBC9B url(../images/close-white.png) no-repeat center;}
+.customNavigation a.btn:hover{box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #1BBC9B, 0 0 0 10px rgba(255,255,255,0.5);}
+.ajl,.bigtext,.sections-head,.slides-container h1 span,.error,#options li:hover,#options li.actcat,.social-list ul li a:hover,.num,.project-description h3,.project-details h3,.subcribe div#error,.subcribe div#success,.smallicon:hover,.footer,.company-color ,.simple-page-head .content h2 span, .post-body a, .widget h4, .search-submit, .tagcloud a:hover, #comments-title , #reply-title , .controls button:hover, .share-options a:hover, .portfolio-nav a{color:#1BBC9B;}
+.triangle{border-color: transparent #1BBC9B transparent transparent;}
+.popup-gallery a span {background: #1BBC9B url(../images/pl-small.png) no-repeat center;}
+.social-list ul li.back{border-top: 1px solid #1BBC9B;}
+.to-top:after {border-bottom-color: #1BBC9B;}
+.flex-direction-nav .flex-next { background: #1BBC9B url(../images/project-next1.png) no-repeat center;}
+.flex-direction-nav .flex-prev {background: #1BBC9B url(../images/project-prev1.png) no-repeat center;}
+.right-head-arrow:before {border-left-color: #1BBC9B;}
+.left-head-arrow:before {border-right-color: #1BBC9B;}
+.image-popup{border-bottom:10px solid #1BBC9B}
+.image-popup span {background: #1BBC9B url(../images/pl-small.png) no-repeat center;}
+.right-date:before {border-right-color: #1BBC9B;}
+.left-date:before {border-left-color: #1BBC9B;}
+.resume-circle{border:2px solid #1BBC9B;}
+.resume-slider{border-bottom:10px solid #1BBC9B;}
+@media only screen and  (max-width: 540px) {.but h3{color:#1BBC9B;}}

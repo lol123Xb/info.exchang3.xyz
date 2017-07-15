@@ -1,0 +1,19 @@
+@charset utf-8;
+.show-panel{width:50px;height:49px;position:fixed;top:0;right:0;background:url(../images/corner.png) no-repeat center;z-index:122;cursor:pointer; }
+.panel{width:250px;height:540px;background:#292929;display:none;position:fixed;top:0;right:0;z-index:121;border-bottom: 4px solid #f54f36;font-family: 'Oswald', sans-serif;}
+.panel h3{font-weight:700;margin:20px 0 10px;color:#fff}
+.panel-container{float:left;width:90%;border-top:1px solid #101011;margin:20px 2.5% 0}
+.panel h5{margin:5px 0 0 4px;padding:20px 0 ;color:#fff;}
+.color-switch,.layout-switch{margin-top:6px;margin-left:2.5%;margin-bottom:20px;width:95%}
+.color-switch {margin-left:36px} 
+.color-switch li{float:left;width:40px;height:40px;margin:2px 0 0 2px}
+.color-switch li a{float:left;display:block;width:100%;height:100%;position:relative;z-index:10}
+.color-switch li.blue{background:#3399DB}
+.color-switch li.green{background:#1BBC9B}
+.color-switch li.yellow{background:#FFCF01}
+.color-switch li.orange{background:#F54F36}
+.layout-holder{width:100%;float:left;margin:0 0 0 15px;}
+.panel .layout-holder h5{margin:5px 0 0 -10px !important;}
+.panel .layout-holder h4{ color:#fff;margin:10px 0; color:#F54F36}
+.layout {float:left;width:40%;margin:0 0 5% 5%;border-bottom: 1px solid #101011;border-top: 1px solid #38393b;padding:6px 10px;font-size:14px;color:#fff}
+.layout:hover,.acttype{color:#F54F36}

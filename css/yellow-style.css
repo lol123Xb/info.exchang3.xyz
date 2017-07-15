@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+::selection {background: #FFD600;color:#fff;}
+::-moz-selection {background: #FFD600;color:#fff;}
+#jpreBar,.patern span,.red,.nav-button span,.inner-overlay,.skillbar-bar,.serviseslider h3 span,.icon-holder,.subscriptionForm input#submitButton,#loadingProgress,.sepcolor,.quote-icon,.skillbar-bar,#facts ul li h6,#closeProject a,#ajaxpage a.lanch-project,#clientlist,#contact_form textarea:focus,#contact_form input:focus, .owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls .clickable .owl-page:hover span,.slides-pagination a.current,.slides-pagination a:hover,.submit_btn:hover,.resume-head,.resume-line,.resume-date,.download-resume , .pagination a.current-page, .pagination a:hover , .project-details a{background:#FFD600;}
+#team .content , #options li.back, #subscribe .content, #prices .content, .simple-page{border-top:2px solid #FFD600;}
+#facts ul li h6:before {border-bottom-color: #FFD600;}
+#testimonials .content{border-top:2px solid #FFD600;border-bottom:2px solid #FFD600;}
+.actser:after {border-top-color: #FFD600;}
+.inner a:hover , .inner li.current a{color:#FFD600;border-right:2px solid #FFD600;}
+.customNavigation a.next-slide{background:#FFD600 url(../images/pl-small.png) no-repeat center;}
+.customNavigation a.close{background:#FFD600 url(../images/close-white.png) no-repeat center;}
+.customNavigation a.btn:hover{box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #FFD600, 0 0 0 10px rgba(255,255,255,0.5);}
+.ajl,.bigtext,.sections-head,.slides-container h1 span,.error,#options li:hover,#options li.actcat,.social-list ul li a:hover,.num,.project-description h3,.project-details h3,.subcribe div#error,.subcribe div#success,.smallicon:hover,.footer,.company-color ,.simple-page-head .content h2 span, .post-body a, .widget h4, .search-submit, .tagcloud a:hover, #comments-title , #reply-title , .controls button:hover, .share-options a:hover, .portfolio-nav a{color:#FFD600;}
+.triangle{border-color: transparent #FFD600 transparent transparent;}
+.popup-gallery a span {background: #FFD600 url(../images/pl-small.png) no-repeat center;}
+.social-list ul li.back{border-top: 1px solid #FFD600;}
+.to-top:after {border-bottom-color: #FFD600;}
+.flex-direction-nav .flex-next { background: #FFD600 url(../images/project-next1.png) no-repeat center;}
+.flex-direction-nav .flex-prev {background: #FFD600 url(../images/project-prev1.png) no-repeat center;}
+.right-head-arrow:before {border-left-color: #FFD600;}
+.left-head-arrow:before {border-right-color: #FFD600;}
+.image-popup{border-bottom:10px solid #FFD600}
+.image-popup span {background: #FFD600 url(../images/pl-small.png) no-repeat center;}
+.right-date:before {border-right-color: #FFD600;}
+.left-date:before {border-left-color: #FFD600;}
+.resume-circle{border:2px solid #FFD600;}
+.resume-slider{border-bottom:10px solid #FFD600;}
+@media only screen and  (max-width: 540px) {.but h3{color:#FFD600;}}
